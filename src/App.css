@@ -1,0 +1,371 @@
+#navbar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: #fdf9f0;
+}
+
+#market {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #286347;
+    margin-left: 150px;
+}
+
+.homeimg {
+    height: 600px;
+    width: 100%;
+}
+
+.nav-link {
+    margin-top: 26px;
+    font-size: 14px !important;
+    color: black;
+}
+
+.nav-link:hover {
+    color: #286347 !important;
+    text-decoration: underline #286347;
+    transition: .2s;
+}
+
+.search {
+    margin-top: 21px;
+    margin-left: 300px;
+    color: #286347;
+}
+
+/* home */
+
+.home {
+    background-color: #fdf9f0;
+}
+
+.card {
+    margin-left: 200px;
+    margin-right: 200px;
+    border: none;
+}
+
+.card-text1 {
+    font-size: 50px;
+    color: #286347;
+    margin-top: 90px;
+    margin-left: 150px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.card-text {
+    font-size: 50px;
+    color: #286347;
+    margin-top: -20px;
+    margin-left: 150px;
+    font-weight: 100;
+}
+
+#online {
+    background-color: #069812;
+    color: white;
+}
+
+/* shop */
+
+.shop {
+    background-color: #fdf9f0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mainshop {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.deal {
+    text-align: center;
+    color: #286347;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.deals {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+#image {
+    background-color: silver !important;
+    border: 1px solid black;
+    border-radius: 50px;
+    height: 250px;
+    width: 250px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 10px black,
+        inset 4px 4px 10px white;
+    overflow: hidden;
+    justify-content: center;
+    transition: .2s;
+}
+
+#image:hover {
+    box-shadow: inset 5px 5px 10px black,
+        inset -4px -4px 10px white;
+    transition: .2s;
+}
+
+#cart {
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#cart:hover {
+    background-color: black;
+    color: white;
+}
+
+.line {
+    padding: 50px;
+    border-bottom: 1px solid black;
+}
+
+/* About */
+
+.about {
+    padding: 90px;
+    background-color: #fdf9f0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.content-1 {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.our {
+    margin-top: 100px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #286347;
+}
+
+.keeper {
+    margin-top: 60px;
+    height: 400px;
+    width: 600px;
+}
+
+.ourmarket {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.empty {
+    margin-top: 50px;
+}
+
+/* contact */
+
+.contact {
+    background-color: #fdf9f0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .content-2 {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+} */
+
+.contactus {
+    color: #286347;
+    margin-top: 100px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.visit {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 150px;
+}
+
+#line {
+    border-bottom: 1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
+#row {
+    padding-top: 150px !important;
+    text-align: center;
+    color: #286347;
+    margin-left: 150px !important;
+    margin-right: 150px !important;
+    padding: 60px;
+}
+
+.form {
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+#control {
+    border: 1px solid black;
+}
+
+.message {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+textarea {
+    height: 100px;
+}
+
+#submit {
+    text-align: center;
+    border: 1px solid black;
+    background-color: #069812;
+    width: 200px;
+    border: none;
+}
+
+#submit:hover {
+    background-color: white;
+    border: 1px solid black;
+}
+
+#door {
+    margin-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#fonticon {
+    color: #286347;
+}
+
+#pick {
+    font-size: 20px;
+    color: #286347;
+}
+
+#pickup {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#day {
+    font-size: 20px;
+    color: #286347;
+}
+
+#sameday {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#delivery {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#mask {
+    font-size: 20px;
+    color: #286347;
+}
+
+#health {
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+/* footer */
+
+.footer {
+    background-color: #286347;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.store {
+    margin-top: 100px;
+}
+
+.faq {
+    margin-top: 20px;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.street {
+    margin-top: 40px;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.mon {
+    margin-top: 20px;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.subscribe {
+    margin-top: 20px;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+
+.copy {
+    margin-top: 100px;
+}
+
+#email {
+    border: 2px solid white;
+    background-color: #286347 !important;
+    color: white;
+}
+
+#now {
+    background-color: white;
+    color: black;
+}
+
+#now:hover {
+    border: 2px solid white;
+    background-color: #286347 !important;
+    color: white;
+}
+
+/* space */
+
+#wax {
+    background-color: #fdf9f0;
+}
