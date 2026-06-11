@@ -9,7 +9,7 @@ export function About() {
                         <h1 className="our">About Our Market</h1>
                     </div>
                     <div className="content-1">
-                        <img src="https://static.wixstatic.com/media/11062b_3f363f439e714c299f12bf8afd86b3e2~mv2.jpg/v1/crop/x_1250,y_0,w_6249,h_4168/fill/w_980,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cashier.jpg" alt="image" className="keeper" />
+                        <img src="https://static.wixstatic.com/media/11062b_3f363f439e714c299f12bf8afd86b3e2~mv2.jpg/v1/crop/x_1250,y_0,w_6249,h_4168/fill/w_980,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cashier.jpg" alt="Cashier at fresh market" className="keeper" />
                     </div>
                     <div className="content-1">
                         <p className="ourmarket">
